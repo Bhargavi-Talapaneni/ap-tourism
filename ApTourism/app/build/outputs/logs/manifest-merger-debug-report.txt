@@ -1,0 +1,894 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\27e021ed3a88d5d0bf61ee201799f18a\jetified-firebase-storage-16.0.5\AndroidManifest.xml:15:1-26:12
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1887fe35022b9a1893c5979ce1ccd98e\jetified-circularimageview-3.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\33693b388486ae3bef4fe39551b97937\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [co.roverlabs:picasso:2.5.2] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4b106799097b03ec1f6bad035c8ad95b\jetified-picasso-2.5.2\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\79844f26775f4c436f487fa80c067bd8\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fa1566f0b4e68ba7eb0270db520221c9\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\063aad3cb6ccec60ef2e8ab01bb53ebc\jetified-firebase-database-16.0.6\AndroidManifest.xml:15:1-27:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\5e9fce45f9455cfbcce9a0a6064d4961\jetified-play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\0047293a203d760546cb9b2d193e99f5\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76c35cf4e313c050e7d7fc484d5dcd10\jetified-firebase-core-16.0.7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\10a27fa7c8614e93f17cd48c2af33c61\jetified-play-services-measurement-api-16.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ad32ac28cd4884ab79d1c8ec2b235405\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\7f9f398e5c79a1d6fd6cbe81d30d96a5\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1f5f11164a5ddbf71066f870eb79851f\jetified-play-services-measurement-base-16.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8da2da20856314ffb98396a3d208f6e9\jetified-play-services-stats-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\984343c85a9708b1ea1adb34aa74e6a1\jetified-firebase-measurement-connector-17.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4a610d0995cc1dacc04feb9581354979\jetified-play-services-ads-identifier-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\71d1084155ddf26d472f1be2d3bdd9ce\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:2:1-14:12
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3b59c917255630e7f4bd7c158271f3b9\jetified-library-1.1.3\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\c972c342bc769a75c394c8551ee253be\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\71900310f8ab92f461a25d9cacb4a2d2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8df97faef3333ebf2699135297027ad0\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\5870076e9aa8ff3c9d23d6b9ac77a811\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1168a7369564dc13aec39d2ab8d0ad2c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\50cf01000bbd1ce0b81b639aea93d456\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3cd0835ebf821ec1a6b0914a04a86283\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fc43ead4256cb42bc88a67a97cb9617b\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\587b0a4acc5a968faa30bee6fa9fac9d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\01c01085d733a50741d8635da9e2ee1f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\db1e833d3a09728d8b6933725f7d2077\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4952f2d87c02888409b3716139c768a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\2c4432b2ba742c4de3e71e1c4adfebb4\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\9db48372ae0279d46c54c49faeb9dab0\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\a40e04a269ab105530093ddb83342647\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8962a7fad75af76fa19ac566a9201f54\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3308a5329d00e11d0407a84601476f2a\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\d586808efe89a44eed6683c071a09d6f\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3f381a8d6616967ca52a9e5946021e4b\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\86a6e4f05f7b51af1f6020018299810c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1389646dcdf17c6bdde7ba1c11caf055\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\25f4fb08714c79790ee9d8de3f8f44f9\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\cb80747ee9c049f494ecede68862b291\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\9666b9cbba50143d96f9033d923a3ff7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\709fe52746b72724c648f1aa0bbb7642\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\add23395f2ccada284a2e06c8c650792\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fe2cd2717f3b682db8372ca93db0c05f\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4d73280279a4c1f42524237947c184c3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\07c9c0a20efdcf7656ed8e08cc545c11\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\98e44889b5f2d220a8a37f245a6df217\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ebe904cddbe07e1e19fa9ed52e885ab5\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1388fe5d372779ba856d80df221b91e2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\23107c00fc6f3ab8625cd60073818c63\jetified-firebase-database-collection-16.0.1\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+	package
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\27e021ed3a88d5d0bf61ee201799f18a\jetified-firebase-storage-16.0.5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\27e021ed3a88d5d0bf61ee201799f18a\jetified-firebase-storage-16.0.5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\063aad3cb6ccec60ef2e8ab01bb53ebc\jetified-firebase-database-16.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\063aad3cb6ccec60ef2e8ab01bb53ebc\jetified-firebase-database-16.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\27e021ed3a88d5d0bf61ee201799f18a\jetified-firebase-storage-16.0.5\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\27e021ed3a88d5d0bf61ee201799f18a\jetified-firebase-storage-16.0.5\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\063aad3cb6ccec60ef2e8ab01bb53ebc\jetified-firebase-database-16.0.6\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\063aad3cb6ccec60ef2e8ab01bb53ebc\jetified-firebase-database-16.0.6\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:8:5-161:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\33693b388486ae3bef4fe39551b97937\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\33693b388486ae3bef4fe39551b97937\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [co.roverlabs:picasso:2.5.2] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4b106799097b03ec1f6bad035c8ad95b\jetified-picasso-2.5.2\AndroidManifest.xml:11:5-14:19
+MERGED from [co.roverlabs:picasso:2.5.2] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4b106799097b03ec1f6bad035c8ad95b\jetified-picasso-2.5.2\AndroidManifest.xml:11:5-14:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fa1566f0b4e68ba7eb0270db520221c9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fa1566f0b4e68ba7eb0270db520221c9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\0047293a203d760546cb9b2d193e99f5\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\0047293a203d760546cb9b2d193e99f5\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76c35cf4e313c050e7d7fc484d5dcd10\jetified-firebase-core-16.0.7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76c35cf4e313c050e7d7fc484d5dcd10\jetified-firebase-core-16.0.7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\10a27fa7c8614e93f17cd48c2af33c61\jetified-play-services-measurement-api-16.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\10a27fa7c8614e93f17cd48c2af33c61\jetified-play-services-measurement-api-16.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ad32ac28cd4884ab79d1c8ec2b235405\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ad32ac28cd4884ab79d1c8ec2b235405\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\7f9f398e5c79a1d6fd6cbe81d30d96a5\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\7f9f398e5c79a1d6fd6cbe81d30d96a5\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1f5f11164a5ddbf71066f870eb79851f\jetified-play-services-measurement-base-16.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1f5f11164a5ddbf71066f870eb79851f\jetified-play-services-measurement-base-16.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8da2da20856314ffb98396a3d208f6e9\jetified-play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8da2da20856314ffb98396a3d208f6e9\jetified-play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\984343c85a9708b1ea1adb34aa74e6a1\jetified-firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\984343c85a9708b1ea1adb34aa74e6a1\jetified-firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4a610d0995cc1dacc04feb9581354979\jetified-play-services-ads-identifier-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4a610d0995cc1dacc04feb9581354979\jetified-play-services-ads-identifier-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3f381a8d6616967ca52a9e5946021e4b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3f381a8d6616967ca52a9e5946021e4b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\25f4fb08714c79790ee9d8de3f8f44f9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\25f4fb08714c79790ee9d8de3f8f44f9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3f381a8d6616967ca52a9e5946021e4b\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.farmersapp.Splash
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:15:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.farmersapp.ChiShop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:22:9-23:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:23:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:22:19-42
+activity#com.example.farmersapp.ChiTemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:24:9-25:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:24:19-42
+activity#com.example.farmersapp.ChiRest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:26:9-27:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:26:19-42
+activity#com.example.farmersapp.ChiRailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:28:9-29:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:28:19-45
+activity#com.example.farmersapp.KadapaTemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:30:9-31:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:31:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:30:19-45
+activity#com.example.farmersapp.KadapaShop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:32:9-33:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:33:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:32:19-45
+activity#com.example.farmersapp.KadapaRest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:34:9-35:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:34:19-45
+activity#com.example.farmersapp.KadapaRailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:36:9-37:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:36:19-48
+activity#com.example.farmersapp.Vitemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:38:9-39:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:39:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:38:19-41
+activity#com.example.farmersapp.Vishop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:40:9-41:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:41:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:40:19-41
+activity#com.example.farmersapp.Virest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:42:9-43:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:42:19-41
+activity#com.example.farmersapp.Virailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:44:9-45:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:45:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:44:19-44
+activity#com.example.farmersapp.Vtemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:46:9-47:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:46:19-40
+activity#com.example.farmersapp.Vshop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:48:9-49:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:48:19-40
+activity#com.example.farmersapp.Vrest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:50:9-51:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:51:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:50:19-40
+activity#com.example.farmersapp.Vrailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:52:9-46
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:52:19-43
+activity#com.example.farmersapp.Sritemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:53:9-54:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:53:19-42
+activity#com.example.farmersapp.Srishop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:55:9-56:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:56:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:55:19-42
+activity#com.example.farmersapp.Srirest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:57:9-58:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:58:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:57:19-42
+activity#com.example.farmersapp.Srirailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:59:9-60:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:60:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:59:19-45
+activity#com.example.farmersapp.Krishnatemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:61:9-62:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:62:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:61:19-46
+activity#com.example.farmersapp.Krishnashop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:63:9-64:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:64:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:63:19-46
+activity#com.example.farmersapp.Krishnarest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:65:9-66:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:66:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:65:19-46
+activity#com.example.farmersapp.krishnarailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:67:9-68:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:68:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:67:19-49
+activity#com.example.farmersapp.Wtemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:69:9-70:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:70:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:69:19-40
+activity#com.example.farmersapp.Wshop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:71:9-72:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:72:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:71:19-40
+activity#com.example.farmersapp.Wrest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:73:9-74:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:74:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:73:19-40
+activity#com.example.farmersapp.Wrailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:75:9-76:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:76:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:75:19-43
+activity#com.example.farmersapp.Etemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:77:9-78:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:78:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:77:19-40
+activity#com.example.farmersapp.Eshop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:79:9-80:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:80:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:79:19-40
+activity#com.example.farmersapp.Erest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:81:9-82:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:82:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:81:19-40
+activity#com.example.farmersapp.Erailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:83:9-46
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:83:19-43
+activity#com.example.farmersapp.Atemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:84:9-85:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:85:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:84:19-40
+activity#com.example.farmersapp.Ashop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:86:9-87:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:87:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:86:19-40
+activity#com.example.farmersapp.Arest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:88:9-89:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:89:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:88:19-40
+activity#com.example.farmersapp.Arailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:90:9-91:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:91:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:90:19-43
+activity#com.example.farmersapp.KadapaActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:92:9-93:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:93:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:92:19-49
+activity#com.example.farmersapp.Chittor
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:94:9-95:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:95:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:94:19-42
+activity#com.example.farmersapp.WestActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:96:9-98:15
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:97:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:96:19-47
+activity#com.example.farmersapp.EastActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:99:9-100:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:100:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:99:19-47
+activity#com.example.farmersapp.SrikakulamActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:101:9-102:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:102:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:101:19-53
+activity#com.example.farmersapp.VishakhapatnamActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:103:9-104:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:104:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:103:19-57
+activity#com.example.farmersapp.VizianagaramActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:105:9-106:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:106:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:105:19-55
+activity#com.example.farmersapp.KrishnaActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:107:9-108:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:108:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:107:19-50
+activity#com.example.farmersapp.AnanthapurActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:109:9-110:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:110:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:109:19-53
+activity#com.example.farmersapp.Nrailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:111:9-112:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:112:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:111:19-43
+activity#com.example.farmersapp.Nshop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:113:9-114:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:114:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:113:19-40
+activity#com.example.farmersapp.Nrest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:115:9-116:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:116:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:115:19-40
+activity#com.example.farmersapp.Ntemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:117:9-118:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:118:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:117:19-40
+activity#com.example.farmersapp.Nellur
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:119:9-120:46
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:120:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:119:19-41
+activity#com.example.farmersapp.Prailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:121:9-122:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:122:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:121:19-43
+activity#com.example.farmersapp.Pshop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:123:9-124:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:124:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:123:19-40
+activity#com.example.farmersapp.Prest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:125:9-126:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:126:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:125:19-40
+activity#com.example.farmersapp.Ptemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:127:9-128:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:128:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:127:19-40
+activity#com.example.farmersapp.PrakasamActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:129:9-130:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:130:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:129:19-51
+activity#com.example.farmersapp.Krailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:131:9-132:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:132:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:131:19-43
+activity#com.example.farmersapp.Kshop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:133:9-134:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:134:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:133:19-40
+activity#com.example.farmersapp.Krest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:135:9-136:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:136:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:135:19-40
+activity#com.example.farmersapp.Ktemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:137:9-138:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:138:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:137:19-40
+activity#com.example.farmersapp.Kurnool
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:139:9-140:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:140:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:139:19-42
+activity#com.example.farmersapp.Grailway
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:141:9-142:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:142:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:141:19-43
+activity#com.example.farmersapp.Grest
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:143:9-144:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:144:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:143:19-40
+activity#com.example.farmersapp.Gshop
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:145:9-146:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:146:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:145:19-40
+activity#com.example.farmersapp.Gtemp
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:147:9-148:45
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:148:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:147:19-40
+activity#com.example.farmersapp.GunturActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:149:9-152:45
+	android:parentActivityName
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:151:13-47
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:152:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:150:13-43
+activity#com.example.farmersapp.Home
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:153:9-156:20
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:154:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:153:19-39
+activity#com.example.farmersapp.MainActivity
+ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:157:9-160:20
+	android:launchMode
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:158:13-43
+	android:name
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:157:19-47
+uses-sdk
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\27e021ed3a88d5d0bf61ee201799f18a\jetified-firebase-storage-16.0.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\27e021ed3a88d5d0bf61ee201799f18a\jetified-firebase-storage-16.0.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1887fe35022b9a1893c5979ce1ccd98e\jetified-circularimageview-3.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1887fe35022b9a1893c5979ce1ccd98e\jetified-circularimageview-3.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\33693b388486ae3bef4fe39551b97937\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\33693b388486ae3bef4fe39551b97937\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [co.roverlabs:picasso:2.5.2] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4b106799097b03ec1f6bad035c8ad95b\jetified-picasso-2.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [co.roverlabs:picasso:2.5.2] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4b106799097b03ec1f6bad035c8ad95b\jetified-picasso-2.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\79844f26775f4c436f487fa80c067bd8\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\79844f26775f4c436f487fa80c067bd8\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fa1566f0b4e68ba7eb0270db520221c9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fa1566f0b4e68ba7eb0270db520221c9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\063aad3cb6ccec60ef2e8ab01bb53ebc\jetified-firebase-database-16.0.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\063aad3cb6ccec60ef2e8ab01bb53ebc\jetified-firebase-database-16.0.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\5e9fce45f9455cfbcce9a0a6064d4961\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\5e9fce45f9455cfbcce9a0a6064d4961\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\0047293a203d760546cb9b2d193e99f5\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\0047293a203d760546cb9b2d193e99f5\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76c35cf4e313c050e7d7fc484d5dcd10\jetified-firebase-core-16.0.7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76c35cf4e313c050e7d7fc484d5dcd10\jetified-firebase-core-16.0.7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\10a27fa7c8614e93f17cd48c2af33c61\jetified-play-services-measurement-api-16.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\10a27fa7c8614e93f17cd48c2af33c61\jetified-play-services-measurement-api-16.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ad32ac28cd4884ab79d1c8ec2b235405\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ad32ac28cd4884ab79d1c8ec2b235405\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\7f9f398e5c79a1d6fd6cbe81d30d96a5\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\7f9f398e5c79a1d6fd6cbe81d30d96a5\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1f5f11164a5ddbf71066f870eb79851f\jetified-play-services-measurement-base-16.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1f5f11164a5ddbf71066f870eb79851f\jetified-play-services-measurement-base-16.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8da2da20856314ffb98396a3d208f6e9\jetified-play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8da2da20856314ffb98396a3d208f6e9\jetified-play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\984343c85a9708b1ea1adb34aa74e6a1\jetified-firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\984343c85a9708b1ea1adb34aa74e6a1\jetified-firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4a610d0995cc1dacc04feb9581354979\jetified-play-services-ads-identifier-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4a610d0995cc1dacc04feb9581354979\jetified-play-services-ads-identifier-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\71d1084155ddf26d472f1be2d3bdd9ce\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\71d1084155ddf26d472f1be2d3bdd9ce\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3b59c917255630e7f4bd7c158271f3b9\jetified-library-1.1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3b59c917255630e7f4bd7c158271f3b9\jetified-library-1.1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\c972c342bc769a75c394c8551ee253be\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\c972c342bc769a75c394c8551ee253be\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\71900310f8ab92f461a25d9cacb4a2d2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\71900310f8ab92f461a25d9cacb4a2d2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8df97faef3333ebf2699135297027ad0\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8df97faef3333ebf2699135297027ad0\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\5870076e9aa8ff3c9d23d6b9ac77a811\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\5870076e9aa8ff3c9d23d6b9ac77a811\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1168a7369564dc13aec39d2ab8d0ad2c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1168a7369564dc13aec39d2ab8d0ad2c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\50cf01000bbd1ce0b81b639aea93d456\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\50cf01000bbd1ce0b81b639aea93d456\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3cd0835ebf821ec1a6b0914a04a86283\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3cd0835ebf821ec1a6b0914a04a86283\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fc43ead4256cb42bc88a67a97cb9617b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fc43ead4256cb42bc88a67a97cb9617b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\587b0a4acc5a968faa30bee6fa9fac9d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\587b0a4acc5a968faa30bee6fa9fac9d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\01c01085d733a50741d8635da9e2ee1f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\01c01085d733a50741d8635da9e2ee1f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\db1e833d3a09728d8b6933725f7d2077\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\db1e833d3a09728d8b6933725f7d2077\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4952f2d87c02888409b3716139c768a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4952f2d87c02888409b3716139c768a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\2c4432b2ba742c4de3e71e1c4adfebb4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\2c4432b2ba742c4de3e71e1c4adfebb4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\9db48372ae0279d46c54c49faeb9dab0\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\9db48372ae0279d46c54c49faeb9dab0\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\a40e04a269ab105530093ddb83342647\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\a40e04a269ab105530093ddb83342647\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8962a7fad75af76fa19ac566a9201f54\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8962a7fad75af76fa19ac566a9201f54\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3308a5329d00e11d0407a84601476f2a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3308a5329d00e11d0407a84601476f2a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\d586808efe89a44eed6683c071a09d6f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\d586808efe89a44eed6683c071a09d6f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3f381a8d6616967ca52a9e5946021e4b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3f381a8d6616967ca52a9e5946021e4b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\86a6e4f05f7b51af1f6020018299810c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\86a6e4f05f7b51af1f6020018299810c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1389646dcdf17c6bdde7ba1c11caf055\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1389646dcdf17c6bdde7ba1c11caf055\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\25f4fb08714c79790ee9d8de3f8f44f9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\25f4fb08714c79790ee9d8de3f8f44f9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\cb80747ee9c049f494ecede68862b291\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\cb80747ee9c049f494ecede68862b291\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\9666b9cbba50143d96f9033d923a3ff7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\9666b9cbba50143d96f9033d923a3ff7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\709fe52746b72724c648f1aa0bbb7642\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\709fe52746b72724c648f1aa0bbb7642\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\add23395f2ccada284a2e06c8c650792\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\add23395f2ccada284a2e06c8c650792\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fe2cd2717f3b682db8372ca93db0c05f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\fe2cd2717f3b682db8372ca93db0c05f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4d73280279a4c1f42524237947c184c3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4d73280279a4c1f42524237947c184c3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\07c9c0a20efdcf7656ed8e08cc545c11\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\07c9c0a20efdcf7656ed8e08cc545c11\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\98e44889b5f2d220a8a37f245a6df217\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\98e44889b5f2d220a8a37f245a6df217\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ebe904cddbe07e1e19fa9ed52e885ab5\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\ebe904cddbe07e1e19fa9ed52e885ab5\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1388fe5d372779ba856d80df221b91e2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\1388fe5d372779ba856d80df221b91e2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\23107c00fc6f3ab8625cd60073818c63\jetified-firebase-database-collection-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\23107c00fc6f3ab8625cd60073818c63\jetified-firebase-database-collection-16.0.1\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\46c84eb7386cc9a2ce2b2c6fe19d9786\jetified-firebase-analytics-impl-16.3.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:2:1-163:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE

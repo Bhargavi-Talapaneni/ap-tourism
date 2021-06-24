@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_krailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_krailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_round_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\round_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prakasam.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_prakasam.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_in.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image3.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\image3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_krishna.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_krishna.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nshop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_nshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_west.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_west.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadapa_shop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_kadapa_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_farmer3.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\farmer3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_krishnarailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_krishnarailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_round_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\round_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wtemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_wtemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape4.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\shape4.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wrest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_wrest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_image_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_image_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vizianagaram.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vizianagaram.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kurnool.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_kurnool.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vishakhapatnam.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vishakhapatnam.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gshop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_gshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vrailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vrailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ananthapur.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_ananthapur.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vishop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vishop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\round_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_image_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_image_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chittor.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_chittor.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chi_railway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_chi_railway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_arest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_arest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_erailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_erailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_atemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_atemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guntur.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_guntur.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_srishop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_srishop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ima.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\ima.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forgot.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\fragment_forgot.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_krishnashop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_krishnashop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadapa_railway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_kadapa_railway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_image_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nellur.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_nellur.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vshop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share_black_24dp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_eshop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_eshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadapa.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_kadapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_krest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_krest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_virest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_virest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ktemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_ktemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vitemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vitemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_progress_bar.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temp1.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\temp1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chi_rest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_chi_rest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chi_temp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_chi_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_virailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_virailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop2.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\shop2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\round_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_arailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_arailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_east.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_east.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_image_black_24dp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_image_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wshop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_wshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onion.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\onion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ntemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_ntemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nrest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_nrest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_farmer.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\farmer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadapa_rest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_kadapa_rest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadapa_temp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_kadapa_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mango.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\mango.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_image_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape1.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\shape1.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vtemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vtemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vrest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_vrest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable-v24\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nrailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_nrailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pshop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_pshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sritemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_sritemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_srirest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_srirest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_round_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\round_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kshop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_kshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_farmer1.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\farmer1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_krishnarest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_krishnarest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shapesforgot.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\shapesforgot.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_krishnatemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_krishnatemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_grailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_srikakulam.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_srikakulam.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_prest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chi_shop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_chi_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_ptemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_prailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_srirailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_srirailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ashop.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_ashop.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_round_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\round_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_erest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_erest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_etemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_etemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wrailway.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_wrailway.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grest.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_grest.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gtemp.xml.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\layout\\activity_gtemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_round_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\round_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop9.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\shop9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imag2.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\imag2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temp8.jpg.flat",
+        "source": "C:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\src\\main\\res\\drawable\\temp8.jpg"
+    }
+]

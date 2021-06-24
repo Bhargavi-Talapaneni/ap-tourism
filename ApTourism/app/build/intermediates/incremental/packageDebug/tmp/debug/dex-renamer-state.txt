@@ -1,0 +1,4 @@
+#Thu Jun 24 15:34:52 IST 2021
+base.0=C\:\\Users\\PHANI\\Music\\ApTourism\\ApTourism\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
