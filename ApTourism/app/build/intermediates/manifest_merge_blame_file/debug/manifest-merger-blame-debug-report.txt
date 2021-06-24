@@ -1,0 +1,614 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.farmersapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:24:5-68
+13-->[com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+14-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:26:5-110
+14-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:26:22-107
+15    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+15-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:26:5-82
+15-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:26:22-79
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->[com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:12:5-81
+16-->[com.daimajia.slider:library:1.1.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\76ed9597b07d3850aae68e7db1067868\jetified-library-1.1.5\AndroidManifest.xml:12:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18
+19    <application
+19-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:8:5-161:19
+20        android:allowBackup="true"
+20-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:9:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\3f381a8d6616967ca52a9e5946021e4b\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:10:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:11:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:12:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:13:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:14:9-40
+29        <activity android:name="com.example.farmersapp.Splash" >
+29-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:15:9-21:20
+29-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:15:19-41
+30            <intent-filter>
+30-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:16:13-20:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:17:17-69
+31-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:17:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:19:17-77
+33-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:19:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:22:9-23:45
+37            android:name="com.example.farmersapp.ChiShop"
+37-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:22:19-42
+38            android:launchMode="singleTop" />
+38-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:23:13-43
+39        <activity
+39-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:24:9-25:45
+40            android:name="com.example.farmersapp.ChiTemp"
+40-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:24:19-42
+41            android:launchMode="singleTop" />
+41-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:25:13-43
+42        <activity
+42-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:26:9-27:45
+43            android:name="com.example.farmersapp.ChiRest"
+43-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:26:19-42
+44            android:launchMode="singleTop" />
+44-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:27:13-43
+45        <activity
+45-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:28:9-29:45
+46            android:name="com.example.farmersapp.ChiRailway"
+46-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:28:19-45
+47            android:launchMode="singleTop" />
+47-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:29:13-43
+48        <activity
+48-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:30:9-31:45
+49            android:name="com.example.farmersapp.KadapaTemp"
+49-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:30:19-45
+50            android:launchMode="singleTop" />
+50-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:31:13-43
+51        <activity
+51-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:32:9-33:45
+52            android:name="com.example.farmersapp.KadapaShop"
+52-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:32:19-45
+53            android:launchMode="singleTop" />
+53-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:33:13-43
+54        <activity
+54-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:34:9-35:45
+55            android:name="com.example.farmersapp.KadapaRest"
+55-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:34:19-45
+56            android:launchMode="singleTop" />
+56-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:35:13-43
+57        <activity
+57-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:36:9-37:45
+58            android:name="com.example.farmersapp.KadapaRailway"
+58-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:36:19-48
+59            android:launchMode="singleTop" />
+59-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:37:13-43
+60        <activity
+60-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:38:9-39:45
+61            android:name="com.example.farmersapp.Vitemp"
+61-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:38:19-41
+62            android:launchMode="singleTop" />
+62-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:39:13-43
+63        <activity
+63-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:40:9-41:45
+64            android:name="com.example.farmersapp.Vishop"
+64-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:40:19-41
+65            android:launchMode="singleTop" />
+65-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:41:13-43
+66        <activity
+66-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:42:9-43:45
+67            android:name="com.example.farmersapp.Virest"
+67-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:42:19-41
+68            android:launchMode="singleTop" />
+68-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:43:13-43
+69        <activity
+69-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:44:9-45:45
+70            android:name="com.example.farmersapp.Virailway"
+70-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:44:19-44
+71            android:launchMode="singleTop" />
+71-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:45:13-43
+72        <activity
+72-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:46:9-47:45
+73            android:name="com.example.farmersapp.Vtemp"
+73-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:46:19-40
+74            android:launchMode="singleTop" />
+74-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:47:13-43
+75        <activity
+75-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:48:9-49:45
+76            android:name="com.example.farmersapp.Vshop"
+76-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:48:19-40
+77            android:launchMode="singleTop" />
+77-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:49:13-43
+78        <activity
+78-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:50:9-51:45
+79            android:name="com.example.farmersapp.Vrest"
+79-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:50:19-40
+80            android:launchMode="singleTop" />
+80-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:51:13-43
+81        <activity android:name="com.example.farmersapp.Vrailway" />
+81-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:52:9-46
+81-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:52:19-43
+82        <activity
+82-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:53:9-54:45
+83            android:name="com.example.farmersapp.Sritemp"
+83-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:53:19-42
+84            android:launchMode="singleTop" />
+84-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:54:13-43
+85        <activity
+85-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:55:9-56:45
+86            android:name="com.example.farmersapp.Srishop"
+86-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:55:19-42
+87            android:launchMode="singleTop" />
+87-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:56:13-43
+88        <activity
+88-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:57:9-58:45
+89            android:name="com.example.farmersapp.Srirest"
+89-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:57:19-42
+90            android:launchMode="singleTop" />
+90-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:58:13-43
+91        <activity
+91-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:59:9-60:45
+92            android:name="com.example.farmersapp.Srirailway"
+92-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:59:19-45
+93            android:launchMode="singleTop" />
+93-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:60:13-43
+94        <activity
+94-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:61:9-62:45
+95            android:name="com.example.farmersapp.Krishnatemp"
+95-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:61:19-46
+96            android:launchMode="singleTop" />
+96-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:62:13-43
+97        <activity
+97-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:63:9-64:45
+98            android:name="com.example.farmersapp.Krishnashop"
+98-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:63:19-46
+99            android:launchMode="singleTop" />
+99-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:64:13-43
+100        <activity
+100-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:65:9-66:45
+101            android:name="com.example.farmersapp.Krishnarest"
+101-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:65:19-46
+102            android:launchMode="singleTop" />
+102-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:66:13-43
+103        <activity
+103-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:67:9-68:45
+104            android:name="com.example.farmersapp.krishnarailway"
+104-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:67:19-49
+105            android:launchMode="singleTop" />
+105-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:68:13-43
+106        <activity
+106-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:69:9-70:45
+107            android:name="com.example.farmersapp.Wtemp"
+107-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:69:19-40
+108            android:launchMode="singleTop" />
+108-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:70:13-43
+109        <activity
+109-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:71:9-72:45
+110            android:name="com.example.farmersapp.Wshop"
+110-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:71:19-40
+111            android:launchMode="singleTop" />
+111-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:72:13-43
+112        <activity
+112-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:73:9-74:45
+113            android:name="com.example.farmersapp.Wrest"
+113-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:73:19-40
+114            android:launchMode="singleTop" />
+114-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:74:13-43
+115        <activity
+115-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:75:9-76:45
+116            android:name="com.example.farmersapp.Wrailway"
+116-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:75:19-43
+117            android:launchMode="singleTop" />
+117-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:76:13-43
+118        <activity
+118-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:77:9-78:45
+119            android:name="com.example.farmersapp.Etemp"
+119-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:77:19-40
+120            android:launchMode="singleTop" />
+120-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:78:13-43
+121        <activity
+121-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:79:9-80:45
+122            android:name="com.example.farmersapp.Eshop"
+122-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:79:19-40
+123            android:launchMode="singleTop" />
+123-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:80:13-43
+124        <activity
+124-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:81:9-82:45
+125            android:name="com.example.farmersapp.Erest"
+125-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:81:19-40
+126            android:launchMode="singleTop" />
+126-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:82:13-43
+127        <activity android:name="com.example.farmersapp.Erailway" />
+127-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:83:9-46
+127-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:83:19-43
+128        <activity
+128-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:84:9-85:45
+129            android:name="com.example.farmersapp.Atemp"
+129-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:84:19-40
+130            android:launchMode="singleTop" />
+130-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:85:13-43
+131        <activity
+131-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:86:9-87:45
+132            android:name="com.example.farmersapp.Ashop"
+132-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:86:19-40
+133            android:launchMode="singleTop" />
+133-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:87:13-43
+134        <activity
+134-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:88:9-89:45
+135            android:name="com.example.farmersapp.Arest"
+135-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:88:19-40
+136            android:launchMode="singleTop" />
+136-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:89:13-43
+137        <activity
+137-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:90:9-91:45
+138            android:name="com.example.farmersapp.Arailway"
+138-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:90:19-43
+139            android:launchMode="singleTop" />
+139-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:91:13-43
+140        <activity
+140-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:92:9-93:45
+141            android:name="com.example.farmersapp.KadapaActivity"
+141-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:92:19-49
+142            android:launchMode="singleTop" />
+142-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:93:13-43
+143        <activity
+143-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:94:9-95:45
+144            android:name="com.example.farmersapp.Chittor"
+144-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:94:19-42
+145            android:launchMode="singleTop" />
+145-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:95:13-43
+146        <activity
+146-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:96:9-98:15
+147            android:name="com.example.farmersapp.WestActivity"
+147-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:96:19-47
+148            android:launchMode="singleTop" />
+148-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:97:13-43
+149        <activity
+149-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:99:9-100:45
+150            android:name="com.example.farmersapp.EastActivity"
+150-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:99:19-47
+151            android:launchMode="singleTop" />
+151-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:100:13-43
+152        <activity
+152-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:101:9-102:45
+153            android:name="com.example.farmersapp.SrikakulamActivity"
+153-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:101:19-53
+154            android:launchMode="singleTop" />
+154-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:102:13-43
+155        <activity
+155-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:103:9-104:45
+156            android:name="com.example.farmersapp.VishakhapatnamActivity"
+156-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:103:19-57
+157            android:launchMode="singleTop" />
+157-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:104:13-43
+158        <activity
+158-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:105:9-106:45
+159            android:name="com.example.farmersapp.VizianagaramActivity"
+159-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:105:19-55
+160            android:launchMode="singleTop" />
+160-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:106:13-43
+161        <activity
+161-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:107:9-108:45
+162            android:name="com.example.farmersapp.KrishnaActivity"
+162-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:107:19-50
+163            android:launchMode="singleTop" />
+163-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:108:13-43
+164        <activity
+164-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:109:9-110:45
+165            android:name="com.example.farmersapp.AnanthapurActivity"
+165-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:109:19-53
+166            android:launchMode="singleTop" />
+166-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:110:13-43
+167        <activity
+167-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:111:9-112:45
+168            android:name="com.example.farmersapp.Nrailway"
+168-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:111:19-43
+169            android:launchMode="singleTop" />
+169-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:112:13-43
+170        <activity
+170-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:113:9-114:45
+171            android:name="com.example.farmersapp.Nshop"
+171-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:113:19-40
+172            android:launchMode="singleTop" />
+172-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:114:13-43
+173        <activity
+173-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:115:9-116:45
+174            android:name="com.example.farmersapp.Nrest"
+174-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:115:19-40
+175            android:launchMode="singleTop" />
+175-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:116:13-43
+176        <activity
+176-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:117:9-118:45
+177            android:name="com.example.farmersapp.Ntemp"
+177-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:117:19-40
+178            android:launchMode="singleTop" />
+178-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:118:13-43
+179        <activity
+179-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:119:9-120:46
+180            android:name="com.example.farmersapp.Nellur"
+180-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:119:19-41
+181            android:launchMode="singleTop" />
+181-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:120:13-43
+182        <activity
+182-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:121:9-122:45
+183            android:name="com.example.farmersapp.Prailway"
+183-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:121:19-43
+184            android:launchMode="singleTop" />
+184-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:122:13-43
+185        <activity
+185-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:123:9-124:45
+186            android:name="com.example.farmersapp.Pshop"
+186-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:123:19-40
+187            android:launchMode="singleTop" />
+187-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:124:13-43
+188        <activity
+188-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:125:9-126:45
+189            android:name="com.example.farmersapp.Prest"
+189-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:125:19-40
+190            android:launchMode="singleTop" />
+190-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:126:13-43
+191        <activity
+191-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:127:9-128:45
+192            android:name="com.example.farmersapp.Ptemp"
+192-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:127:19-40
+193            android:launchMode="singleTop" />
+193-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:128:13-43
+194        <activity
+194-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:129:9-130:45
+195            android:name="com.example.farmersapp.PrakasamActivity"
+195-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:129:19-51
+196            android:launchMode="singleTop" />
+196-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:130:13-43
+197        <activity
+197-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:131:9-132:45
+198            android:name="com.example.farmersapp.Krailway"
+198-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:131:19-43
+199            android:launchMode="singleTop" />
+199-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:132:13-43
+200        <activity
+200-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:133:9-134:45
+201            android:name="com.example.farmersapp.Kshop"
+201-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:133:19-40
+202            android:launchMode="singleTop" />
+202-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:134:13-43
+203        <activity
+203-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:135:9-136:45
+204            android:name="com.example.farmersapp.Krest"
+204-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:135:19-40
+205            android:launchMode="singleTop" />
+205-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:136:13-43
+206        <activity
+206-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:137:9-138:45
+207            android:name="com.example.farmersapp.Ktemp"
+207-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:137:19-40
+208            android:launchMode="singleTop" />
+208-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:138:13-43
+209        <activity
+209-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:139:9-140:45
+210            android:name="com.example.farmersapp.Kurnool"
+210-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:139:19-42
+211            android:launchMode="singleTop" />
+211-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:140:13-43
+212        <activity
+212-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:141:9-142:45
+213            android:name="com.example.farmersapp.Grailway"
+213-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:141:19-43
+214            android:launchMode="singleTop" />
+214-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:142:13-43
+215        <activity
+215-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:143:9-144:45
+216            android:name="com.example.farmersapp.Grest"
+216-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:143:19-40
+217            android:launchMode="singleTop" />
+217-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:144:13-43
+218        <activity
+218-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:145:9-146:45
+219            android:name="com.example.farmersapp.Gshop"
+219-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:145:19-40
+220            android:launchMode="singleTop" />
+220-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:146:13-43
+221        <activity
+221-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:147:9-148:45
+222            android:name="com.example.farmersapp.Gtemp"
+222-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:147:19-40
+223            android:launchMode="singleTop" />
+223-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:148:13-43
+224        <activity
+224-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:149:9-152:45
+225            android:name="com.example.farmersapp.GunturActivity"
+225-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:150:13-43
+226            android:launchMode="singleTop"
+226-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:152:13-43
+227            android:parentActivityName="com.example.farmersapp.Home" />
+227-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:151:13-47
+228        <activity
+228-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:153:9-156:20
+229            android:name="com.example.farmersapp.Home"
+229-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:153:19-39
+230            android:launchMode="singleTop" >
+230-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:154:13-43
+231        </activity>
+232        <activity
+232-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:157:9-160:20
+233            android:name="com.example.farmersapp.MainActivity"
+233-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:157:19-47
+234            android:launchMode="singleTop" >
+234-->C:\Users\PHANI\Music\ApTourism\ApTourism\app\src\main\AndroidManifest.xml:158:13-43
+235        </activity>
+236        <activity
+236-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:24:9-31:50
+237            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+237-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:25:13-85
+238            android:excludeFromRecents="true"
+238-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:26:13-46
+239            android:exported="true"
+239-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:27:13-36
+240            android:launchMode="singleTask"
+240-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:28:13-44
+241            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+241-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:29:13-102
+242            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+242-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:30:13-72
+243
+244        <service
+244-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:33:9-39:19
+245            android:name="com.google.firebase.components.ComponentDiscoveryService"
+245-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:34:13-84
+246            android:exported="false" >
+246-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:35:13-37
+247            <meta-data
+247-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:36:13-38:85
+248                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+248-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:37:17-109
+249                android:value="com.google.firebase.components.ComponentRegistrar" />
+249-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\477e28aa9c1556942359eb63bff5f882\jetified-firebase-auth-16.0.5\AndroidManifest.xml:38:17-82
+250            <meta-data
+250-->[com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:28:13-30:85
+251                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+251-->[com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:29:17-139
+252                android:value="com.google.firebase.components.ComponentRegistrar" />
+252-->[com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\75dc0dd5fd6dd611e94936c7f7cf14c6\jetified-firebase-measurement-connector-impl-17.0.5\AndroidManifest.xml:30:17-82
+253            <meta-data
+253-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:32:13-34:85
+254                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+254-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:33:17-96
+255                android:value="com.google.firebase.components.ComponentRegistrar" />
+255-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:34:17-82
+256        </service>
+257
+258        <receiver
+258-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:29:9-33:20
+259            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+259-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:30:13-85
+260            android:enabled="true"
+260-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:31:13-35
+261            android:exported="false" >
+261-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:32:13-37
+262        </receiver>
+263        <receiver
+263-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:34:9-42:20
+264            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+264-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:35:13-100
+265            android:enabled="true"
+265-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:36:13-35
+266            android:exported="true"
+266-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:37:13-36
+267            android:permission="android.permission.INSTALL_PACKAGES" >
+267-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:38:13-69
+268            <intent-filter>
+268-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:39:13-41:29
+269                <action android:name="com.android.vending.INSTALL_REFERRER" />
+269-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:40:17-79
+269-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:40:25-76
+270            </intent-filter>
+271        </receiver>
+272
+273        <service
+273-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:44:9-47:40
+274            android:name="com.google.android.gms.measurement.AppMeasurementService"
+274-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:45:13-84
+275            android:enabled="true"
+275-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:46:13-35
+276            android:exported="false" />
+276-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:47:13-37
+277        <service
+277-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:48:9-52:72
+278            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+278-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:49:13-87
+279            android:enabled="true"
+279-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:50:13-35
+280            android:exported="false"
+280-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:51:13-37
+281            android:permission="android.permission.BIND_JOB_SERVICE" />
+281-->[com.google.firebase:firebase-analytics:16.3.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\4619a56693242b1f8bc7ba5f366d3dbf\jetified-firebase-analytics-16.3.0\AndroidManifest.xml:52:13-69
+282
+283        <receiver
+283-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:37:9-44:20
+284            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+284-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:38:13-78
+285            android:exported="true"
+285-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:39:13-36
+286            android:permission="com.google.android.c2dm.permission.SEND" >
+286-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:40:13-73
+287            <intent-filter>
+287-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:41:13-43:29
+288                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+288-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:42:17-81
+288-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:42:25-78
+289            </intent-filter>
+290        </receiver>
+291        <!--
+292             FirebaseInstanceIdService performs security checks at runtime,
+293             no need for explicit permissions despite exported="true"
+294        -->
+295        <service
+295-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:50:9-56:19
+296            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+296-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:51:13-77
+297            android:exported="true" >
+297-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:52:13-36
+298            <intent-filter android:priority="-500" >
+298-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:53:13-55:29
+298-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:53:28-51
+299                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+299-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:54:17-80
+299-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\700af2dc56e441f10bba7840343c859b\jetified-firebase-iid-17.0.3\AndroidManifest.xml:54:25-77
+300            </intent-filter>
+301        </service>
+302
+303        <activity
+303-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+304            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+304-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+305            android:exported="false"
+305-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+306            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+306-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\18c73209e00be3f5faf484b46eb425e2\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+307
+308        <provider
+308-->[com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:10:9-14:39
+309            android:name="com.google.firebase.provider.FirebaseInitProvider"
+309-->[com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:11:13-77
+310            android:authorities="com.example.farmersapp.firebaseinitprovider"
+310-->[com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:12:13-72
+311            android:exported="false"
+311-->[com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:13:13-37
+312            android:initOrder="100" />
+312-->[com.google.firebase:firebase-common:16.0.4] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\8dfbe255fbc3db6d26814d4de139a1e1\jetified-firebase-common-16.0.4\AndroidManifest.xml:14:13-36
+313
+314        <meta-data
+314-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+315            android:name="com.google.android.gms.version"
+315-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+316            android:value="@integer/google_play_services_version" />
+316-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\PHANI\.gradle\caches\transforms-2\files-2.1\45d065119e94ba03b8c23ac0fe477687\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+317    </application>
+318
+319</manifest>
